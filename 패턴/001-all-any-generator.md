@@ -2,7 +2,7 @@
 
 **출처**: 프로그래머스 - 돗자리 깔기
 **날짜**: 2026-04-16
-**태그**: #python #generator #idiom #2d-grid
+**태그**: #python #generator #2d-grid
 
 ## 인상 깊었던 코드
 

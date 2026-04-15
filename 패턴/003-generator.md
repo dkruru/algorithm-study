@@ -2,7 +2,7 @@
 
 **출처**: 프로그래머스 - 돗자리 깔기 (학습 메모)
 **날짜**: 2026-04-16
-**태그**: #python #generator #lazy-evaluation #memory #idiom
+**태그**: #python #generator #lazy-evaluation #memory
 
 ## 한 줄 정의
 

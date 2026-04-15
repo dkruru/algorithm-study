@@ -2,7 +2,7 @@
 
 **출처**: 프로그래머스 - 돗자리 깔기 (학습 메모)
 **날짜**: 2026-04-16
-**태그**: #python #comprehension #generator #idiom
+**태그**: #python #comprehension #generator
 
 ## 인상 깊었던 코드
 
